@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\WebApplication7\WebApplication7\obj\Debug\net8.0\PubTmp\Out\WebApplication7.exe
+C:\Users\Ivan\source\repos\WebApplication7\WebApplication7\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Ivan\source\repos\WebApplication7\WebApplication7\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Ivan\source\repos\WebApplication7\WebApplication7\obj\Debug\net8.0\PubTmp\Out\WebApplication7.dll
+C:\Users\Ivan\source\repos\WebApplication7\WebApplication7\obj\Debug\net8.0\PubTmp\Out\WebApplication7.deps.json
+C:\Users\Ivan\source\repos\WebApplication7\WebApplication7\obj\Debug\net8.0\PubTmp\Out\WebApplication7.runtimeconfig.json
+C:\Users\Ivan\source\repos\WebApplication7\WebApplication7\obj\Debug\net8.0\PubTmp\Out\WebApplication7.pdb
